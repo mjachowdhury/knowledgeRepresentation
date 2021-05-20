@@ -106,3 +106,9 @@ Based on your studying and reviewing of “learning.ipynb” implement the Naive
 Choose appropriate methodologiesand/or variants in its utilisation.  Present appropriate visualisations demonstrating its per-formance. 
 Write a clear and concise description of the Naive Bayes Classifier considering theheadings outlined: probability, conditional independence, 
 and Bayes theorem
+
+
+**Additional Tools**
+
+http://aispace.org/bayes/
+
